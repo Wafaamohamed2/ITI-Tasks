@@ -1,1 +1,2 @@
 "Notes on lab 1" 
+"Add new notes" 
