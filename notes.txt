@@ -1,1 +1,2 @@
-Day2-Note
+"Notes on lab 1" 
+"Add new notes" 
